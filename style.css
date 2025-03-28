@@ -50,6 +50,7 @@ body * {
   padding: 24px;
 }
 #profile img {
+  border-radius: 70px;
   width: 112px;
 }
 
